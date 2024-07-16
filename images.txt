@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-redis:6.0.7-apline-arm64v8
+kanap0nta/gocv:arm64-4.7.0
